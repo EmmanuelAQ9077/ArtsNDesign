@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1629.75 1536.75">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 900px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #872824;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: pennc, pennc;
+      }
+
+      .cls-4, .cls-3 {
+        fill: #eec353;
+      }
+
+      .cls-3 {
+        font-size: 750px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <polygon points="1235.56 1536.75 394.19 1536.75 0 254.53 244.4 254.53 126.28 0 1503.47 0 1385.35 254.53 1629.75 254.53 1235.56 1536.75"/>
+    <polygon class="cls-4" points="1193.17 1497.43 428.23 1497.43 65.09 279.89 304.15 279.89 199.47 44.28 1404.83 44.28 1308.66 279.89 1560.68 279.62 1193.17 1497.43"/>
+    <polygon class="cls-2" points="1163.3 1463.85 454.02 1465.89 105.17 319 355.98 319 243.55 76.11 1359.3 76.45 1249.94 319 1514.45 319 1163.3 1463.85"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <text class="cls-3" transform="translate(712.05 1418.36)"><tspan x="0" y="0">p</tspan></text>
+    <text class="cls-1" transform="translate(692.67 1076.55)"><tspan x="0" y="0">&amp;</tspan></text>
+    <text class="cls-3" transform="translate(272.23 869.47)"><tspan x="0" y="0">w</tspan></text>
+    <rect class="cls-2" x="786.28" y="520.02" width="143.49" height="103.66"/>
+    <text class="cls-3" transform="translate(515.34 1220.23)"><tspan x="0" y="0">i</tspan></text>
+    <text class="cls-3" transform="translate(739.52 1052.74)"><tspan x="0" y="0">&amp;</tspan></text>
+  </g>
+</svg>
